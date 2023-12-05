@@ -1,0 +1,21 @@
+*{
+    padding: 0%;
+    margin: 0%;
+}
+body{
+    font-family:'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+}
+u{
+    text-underline-offset: 6px;
+    text-decoration-color: blueviolet;
+}
+.c1{
+    border-bottom:2px solid transparent;
+}
+.c1:hover{
+    padding-bottom: 0px;
+    border-bottom: 2px solid blueviolet;
+}
+#c:hover{
+    color: blueviolet;
+}
